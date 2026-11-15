@@ -16,5 +16,5 @@ Estudante do Ensino Médio Técnico em Informática no **Instituto Federal de Mi
 
 ---
 
-#### 📈 Estatísticas no GitHub
-![Estatísticas do GitHub de HeavyLeaf01](https://github-readme-stats.vercel.app/api?username=HeavyLeaf01&show_icons=true&theme=tokyonight&hide_border=true)
+#### 📈 Atividade no GitHub
+![GitHub Streak](https://streak-stats.demolab.com?user=HeavyLeaf01&theme=tokyonight&hide_border=true)
