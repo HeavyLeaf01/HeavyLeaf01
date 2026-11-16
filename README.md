@@ -1,20 +1,38 @@
-### Olá, eu sou o Gabriel 👋
 
-Estudante do Ensino Médio Técnico em Informática no **Instituto Federal de Minas Gerais (IFMG)**, apaixonado por desenvolvimento web, lógica de programação, hardware e criação de jogos 2D.
 
----
-
-#### 🛠️ Tecnologias e Ferramentas
-- **Desenvolvimento Web:** HTML5, CSS3 (Flexbox/Grid), JavaScript, SQL
-- **Programação & Game Dev:** Python (POO), Godot 4 (GDScript), Aseprite (Pixel Art)
-- **Infraestrutura & Sistemas:** Git, GitHub, Windows, Linux (servidores), Manutenção e Diagnóstico de Hardware
+<div align="center">
+  <h1>Olá, eu sou o Gabriel Fernandes Temponi 👋</h1>
+  <p>
+    Estudante do Ensino Médio Técnico em Informática no <strong>Instituto Federal de Minas Gerais (IFMG)</strong>, apaixonado por desenvolvimento web, lógica de programação, hardware e criação de jogos 2D.<br>
+  </p>
+</div>
 
 ---
 
-#### 🌱 Projeto em Destaque
-- **FloraIFMG** *(Em desenvolvimento)*: Plataforma web e catálogo botânico digital desenvolvido para o campus do IFMG, permitindo a consulta interativa da flora local via QR Codes, com interface responsiva e dados reais catalogados no campus.
+### Projeto em Destaque
+
+> ### [FloraIFMG](https://github.com/HeavyLeaf01) `Em desenvolvimento`
+> Plataforma web e catálogo botânico digital desenvolvido para o campus do IFMG. Permite a consulta interativa da flora local via QR Codes, contando com interface responsiva e dados reais catalogados em campo.
 
 ---
 
-#### 📈 Atividade no GitHub
-![GitHub Streak](https://streak-stats.demolab.com?user=HeavyLeaf01&theme=tokyonight&hide_border=true)
+### Stack & Linguagens
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,godot&theme=dark" alt="Linguagens" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><strong>Ferramentas & Infraestrutura:</strong> Godot 4 • Aseprite (Pixel Art) • Git & GitHub • Windows • Linux (Servidores) • Manutenção e Diagnóstico de Hardware</sub>
+</p>
+
+---
+
+### Atividade no GitHub
+
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=HeavyLeaf01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeavyLeaf01&theme=tokyonight" alt="Detalhes do Perfil" />
+</p>
