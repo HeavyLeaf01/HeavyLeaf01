@@ -27,12 +27,3 @@
 <p align="center">
   <sub><strong>Ferramentas & Infraestrutura:</strong> Godot 4 • Aseprite (Pixel Art) • Git & GitHub • Windows • Linux (Servidores) • Manutenção e Diagnóstico de Hardware</sub>
 </p>
-
----
-
-### Atividade no GitHub
-
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=HeavyLeaf01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeavyLeaf01&theme=tokyonight" alt="Detalhes do Perfil" />
-</p>
