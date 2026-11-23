@@ -11,7 +11,7 @@
 
 ### Projeto em Destaque
 
-> ### [FloraIFMG](https://floraifmg.vercel.app/) `Em desenvolvimento`
+> ### [FloraIFMG](https://floraifmg.onrender.com/) `Em desenvolvimento`
 > Plataforma web e catálogo botânico digital desenvolvido para o campus do IFMG. Permite a consulta interativa da flora local via QR Codes, contando com interface responsiva e dados reais catalogados em campo.
 
 ---
